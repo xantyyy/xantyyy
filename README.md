@@ -119,8 +119,8 @@ SEO-ready store with catalogue & search, cart, checkout and an admin panel for o
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=xantyyy&show_icons=true&hide_border=true&bg_color=0b1220&title_color=22d3ee&icon_color=3b82f6&text_color=cbd5e1&rank_icon=github&disable_animations=true" />
-  <img height="180" src="https://streak-stats.demolab.com?user=xantyyy&hide_border=true&background=0b1220&ring=3b82f6&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=cbd5e1&dates=64748b&currStreakNum=ffffff&sideNums=ffffff&disable_animations=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=xantyyy&show_icons=true&hide_border=true&bg_color=0b1220&title_color=22d3ee&icon_color=3b82f6&text_color=cbd5e1&rank_icon=github&disable_animations=true&card_width=495" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=xantyyy&hide_border=true&background=0b1220&ring=3b82f6&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=cbd5e1&dates=64748b&currStreakNum=ffffff&sideNums=ffffff&disable_animations=true" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:06b6d4,50:2563eb,100:1e3a8a&section=footer" width="100%" />
