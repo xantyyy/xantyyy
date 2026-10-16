@@ -1,5 +1,5 @@
 <!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:a3e635,50:8b5cf6,100:ec4899&text=Santy%20Balmores&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Philippines%20%F0%9F%87%B5%F0%9F%87%AD&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:a3e635,50:8b5cf6,100:ec4899&text=Santy%20Balmores&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Philippines&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&duration=3000&pause=800&color=A3E635&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Santy+%F0%9F%91%8B;I+build+websites+%26+web+apps;Mobile+%E2%80%A2+Desktop+%E2%80%A2+AI+%E2%80%A2+Automations;Open+for+freelance+work+%F0%9F%9A%80" alt="Typing SVG" /></a>
@@ -8,7 +8,6 @@
 <p align="center">
   <a href="mailto:santybalmores@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/xantyyy/sb.portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=xantyyy&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS" />
 </p>
 
 ---
@@ -35,7 +34,7 @@ const santy = {
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Technologist.png" width="160" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="160" />
 
 **🎓 Our Lady of the Sacred Heart<br/>College of Guimba**<br/>
 <sub>2020 – 2024 · Cum Laude</sub>
@@ -147,14 +146,8 @@ SEO-ready store with catalogue & search, cart, checkout and an admin panel for o
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=xantyyy&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a3e635&icon_color=8b5cf6&text_color=c9d1d9&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xantyyy&layout=compact&hide_border=true&bg_color=0d1117&title_color=a3e635&text_color=c9d1d9" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=xantyyy&hide_border=true&background=0d1117&ring=8b5cf6&fire=ec4899&currStreakLabel=a3e635&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
-</p>
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=xantyyy&bg_color=0d1117&color=c9d1d9&line=a3e635&point=8b5cf6&area=true&area_color=8b5cf6&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=xantyyy&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a3e635&icon_color=8b5cf6&text_color=c9d1d9&rank_icon=github&disable_animations=true" />
+  <img height="180" src="https://streak-stats.demolab.com?user=xantyyy&hide_border=true&background=0d1117&ring=8b5cf6&fire=ec4899&currStreakLabel=a3e635&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&disable_animations=true" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:ec4899,50:8b5cf6,100:a3e635&section=footer" width="100%" />
